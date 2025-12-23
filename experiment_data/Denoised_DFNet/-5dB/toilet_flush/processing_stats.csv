@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_102_plus_2-67422-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,6286.75
+1_107_plus_5-177034-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5875.57
+1_140_plus_2-74977-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5790.3
+1_215_plus_3-118059-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5938.02
+1_239_plus_4-152958-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5998.14
+1_26_plus_1-30214-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5912.48
+1_281_plus_1-53670-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,6134.66
+1_309_plus_5-185908-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,5949.06
+1_448_plus_3-112356-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,6004.83
+1_56_plus_4-126532-A-18_-5dB.wav,toilet_flush,-5dB,DeepFilterNet,6130.73

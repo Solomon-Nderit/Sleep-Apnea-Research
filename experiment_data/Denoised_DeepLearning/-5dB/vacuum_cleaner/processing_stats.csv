@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_5-182007-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,5372.05
+1_206_plus_2-106073-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3625.58
+1_289_plus_3-159347-B-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3641.59
+1_305_plus_2-106072-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3621.2
+1_310_plus_1-19872-B-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3638.64
+1_336_plus_2-141681-B-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3627.85
+1_386_plus_2-141682-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3716.44
+1_417_plus_3-159346-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3638.2
+1_423_plus_5-212054-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3608.67
+1_88_plus_1-79236-A-36_-5dB.wav,vacuum_cleaner,-5dB,Demucs,3629.11

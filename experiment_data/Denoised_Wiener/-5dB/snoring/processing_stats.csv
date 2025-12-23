@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_11_plus_1-39937-A-28_-5dB.wav,snoring,-5dB,Wiener,1621.85
+1_162_plus_4-197454-A-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_180_plus_3-124795-A-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_259_plus_3-123086-A-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_451_plus_4-191297-A-28_-5dB.wav,snoring,-5dB,Wiener,1.5
+1_45_plus_4-184237-A-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_499_plus_4-197454-B-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_69_plus_4-183882-B-28_-5dB.wav,snoring,-5dB,Wiener,1.5
+1_92_plus_5-233312-A-28_-5dB.wav,snoring,-5dB,Wiener,2.0
+1_98_plus_3-151557-A-28_-5dB.wav,snoring,-5dB,Wiener,2.5

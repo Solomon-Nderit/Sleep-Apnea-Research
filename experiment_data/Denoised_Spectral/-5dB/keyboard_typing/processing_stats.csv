@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_100_plus_2-99796-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,23.02
+1_124_plus_2-120333-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,28.38
+1_130_plus_4-167155-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,25.06
+1_292_plus_3-144106-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,24.07
+1_364_plus_5-223099-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,24.41
+1_366_plus_5-244178-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,23.54
+1_410_plus_4-177243-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,26.53
+1_416_plus_1-94231-B-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,23.45
+1_52_plus_5-223099-B-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,21.53
+1_56_plus_5-234923-A-32_-5dB.wav,keyboard_typing,-5dB,Spectral Gating,23.35

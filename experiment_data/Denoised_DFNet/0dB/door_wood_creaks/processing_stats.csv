@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_237_plus_2-123712-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,3835.08
+1_23_plus_1-51805-C-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,3813.92
+1_293_plus_2-70344-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,3894.78
+1_321_plus_4-132839-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,3769.79
+1_407_plus_4-107120-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,3882.82
+1_454_plus_4-107122-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,5128.05
+1_48_plus_1-51805-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,6330.18
+1_498_plus_5-161270-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,6301.94
+1_4_plus_4-107117-A-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,6275.03
+1_94_plus_1-51805-H-33_0dB.wav,door_wood_creaks,0dB,DeepFilterNet,6292.82

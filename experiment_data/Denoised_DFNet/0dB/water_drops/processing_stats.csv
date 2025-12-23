@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_112_plus_5-259180-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,6128.62
+1_113_plus_1-16746-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5961.55
+1_171_plus_1-23094-B-15_0dB.wav,water_drops,0dB,DeepFilterNet,5877.77
+1_190_plus_1-12654-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5760.75
+1_251_plus_5-261439-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5842.56
+1_257_plus_4-188293-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,6035.59
+1_359_plus_1-12653-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5918.54
+1_389_plus_3-164592-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5834.3
+1_496_plus_4-168155-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5755.87
+1_498_plus_3-164594-A-15_0dB.wav,water_drops,0dB,DeepFilterNet,5883.46

@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_136_plus_4-172500-D-27_0dB.wav,brushing_teeth,0dB,Wavelet,1841.4
+1_213_plus_5-218196-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,2.06
+1_236_plus_3-118069-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,1.79
+1_24_plus_5-180229-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,1.65
+1_256_plus_4-172500-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,1.67
+1_290_plus_3-126391-B-27_0dB.wav,brushing_teeth,0dB,Wavelet,1.33
+1_351_plus_1-58923-B-27_0dB.wav,brushing_teeth,0dB,Wavelet,2.51
+1_412_plus_3-139331-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,2.0
+1_426_plus_5-220939-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,2.0
+1_56_plus_2-86160-A-27_0dB.wav,brushing_teeth,0dB,Wavelet,2.0

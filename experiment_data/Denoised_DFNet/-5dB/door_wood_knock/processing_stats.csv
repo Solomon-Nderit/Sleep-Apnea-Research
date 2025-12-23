@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_118_plus_2-118624-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6141.97
+1_127_plus_2-133889-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6127.85
+1_151_plus_3-182023-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6362.24
+1_254_plus_3-151089-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6153.06
+1_305_plus_2-118625-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6172.82
+1_315_plus_5-250026-B-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6249.37
+1_425_plus_4-182041-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6036.03
+1_437_plus_2-120218-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6210.66
+1_484_plus_4-187284-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6178.32
+1_62_plus_3-154378-A-30_-5dB.wav,door_wood_knock,-5dB,DeepFilterNet,6246.04

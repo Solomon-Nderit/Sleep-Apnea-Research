@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_132_plus_2-182508-A-8_0dB.wav,sheep,0dB,Wiener,1576.84
+1_167_plus_4-250864-A-8_0dB.wav,sheep,0dB,Wiener,2.51
+1_197_plus_3-197408-B-8_0dB.wav,sheep,0dB,Wiener,2.52
+1_235_plus_4-188703-D-8_0dB.wav,sheep,0dB,Wiener,1.5
+1_276_plus_5-200329-A-8_0dB.wav,sheep,0dB,Wiener,2.01
+1_27_plus_3-140199-B-8_0dB.wav,sheep,0dB,Wiener,2.42
+1_375_plus_5-61635-A-8_0dB.wav,sheep,0dB,Wiener,2.05
+1_401_plus_3-140199-A-8_0dB.wav,sheep,0dB,Wiener,1.5
+1_53_plus_1-57795-A-8_0dB.wav,sheep,0dB,Wiener,2.28
+1_70_plus_1-121951-A-8_0dB.wav,sheep,0dB,Wiener,2.02

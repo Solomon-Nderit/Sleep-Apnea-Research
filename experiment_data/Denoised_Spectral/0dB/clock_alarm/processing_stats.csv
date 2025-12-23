@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_161_plus_1-96890-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,19.02
+1_211_plus_4-209698-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,24.53
+1_236_plus_5-219242-B-37_0dB.wav,clock_alarm,0dB,Spectral Gating,22.3
+1_268_plus_3-148297-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,21.54
+1_292_plus_5-219242-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,16.46
+1_295_plus_2-78562-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,15.52
+1_31_plus_5-234247-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,14.52
+1_383_plus_1-74517-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,13.72
+1_475_plus_5-233645-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,15.07
+1_65_plus_2-102435-A-37_0dB.wav,clock_alarm,0dB,Spectral Gating,13.88

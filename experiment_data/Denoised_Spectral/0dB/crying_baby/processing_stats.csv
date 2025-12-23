@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_145_plus_2-66637-A-20_0dB.wav,crying_baby,0dB,Spectral Gating,22.02
+1_254_plus_4-167077-B-20_0dB.wav,crying_baby,0dB,Spectral Gating,27.07
+1_257_plus_4-185575-A-20_0dB.wav,crying_baby,0dB,Spectral Gating,25.56
+1_341_plus_1-211527-C-20_0dB.wav,crying_baby,0dB,Spectral Gating,24.04
+1_433_plus_1-22694-B-20_0dB.wav,crying_baby,0dB,Spectral Gating,27.55
+1_458_plus_3-152007-A-20_0dB.wav,crying_baby,0dB,Spectral Gating,26.05
+1_475_plus_1-22694-A-20_0dB.wav,crying_baby,0dB,Spectral Gating,20.03
+1_484_plus_5-198411-G-20_0dB.wav,crying_baby,0dB,Spectral Gating,18.53
+1_498_plus_4-59579-A-20_0dB.wav,crying_baby,0dB,Spectral Gating,19.54
+1_89_plus_3-152007-D-20_0dB.wav,crying_baby,0dB,Spectral Gating,22.54

@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_181_plus_2-160888-A-47_0dB.wav,airplane,0dB,DeepFilterNet,3825.25
+1_222_plus_4-161099-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4740.06
+1_24_plus_3-128512-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4857.37
+1_265_plus_4-251959-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4710.44
+1_27_plus_5-251957-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4767.55
+1_317_plus_4-161105-B-47_0dB.wav,airplane,0dB,DeepFilterNet,4735.6
+1_38_plus_2-78781-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4729.75
+1_490_plus_4-255371-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4738.29
+1_64_plus_5-251963-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4700.6
+1_6_plus_1-36929-A-47_0dB.wav,airplane,0dB,DeepFilterNet,4729.4

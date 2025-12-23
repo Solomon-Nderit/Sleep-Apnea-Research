@@ -8,6 +8,7 @@ import soundfile as sf
 import librosa
 import numpy as np
 import argparse
+import csv
 
 def process_file(model, in_path, out_path):
     # 2. Load Audio & Prep for Model
@@ -54,7 +55,25 @@ def process_file(model, in_path, out_path):
     sf.write(out_path, clean_audio, 44100) # Demucs outputs 44.1k
     
     print(f"   Processed {os.path.basename(in_path)} in {end_time - start_time:.2f}s")
-    return end_time - start_time
+    return (end_time - start_time) * 1000 # ms
+
+def get_snr_level(filename):
+    # Expected format: ..._10dB.wav, ..._0dB.wav, ..._-5dB.wav
+    if "_10dB" in filename: return "10dB"
+    if "_0dB" in filename: return "0dB"
+    if "_-5dB" in filename: return "-5dB"
+    return "Unknown"
+
+def save_stats(stats, output_dir):
+    csv_path = os.path.join(output_dir, "processing_stats.csv")
+    file_exists = os.path.isfile(csv_path)
+    
+    with open(csv_path, mode='a', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=["filename", "category", "snr_level", "method", "processing_time_ms"])
+        if not file_exists:
+            writer.writeheader()
+        writer.writerows(stats)
+    print(f"📊 Stats saved to {csv_path}")
 
 def main():
     parser = argparse.ArgumentParser(description="Demucs Cleaner")
@@ -72,28 +91,48 @@ def main():
     model.cpu()
     model.eval()
 
-    processing_times = []
+    stats = []
+    METHOD_NAME = "Demucs"
 
     if args.input_dir and args.output_dir:
         os.makedirs(args.output_dir, exist_ok=True)
         files = [f for f in os.listdir(args.input_dir) if f.endswith('.wav')]
         print(f"🧠 Starting AI Cleanup on {len(files)} files...")
         
+        category = os.path.basename(args.input_dir.rstrip(os.sep))
+        
         for f in files:
             in_path = os.path.join(args.input_dir, f)
             out_path = os.path.join(args.output_dir, f)
-            duration = process_file(model, in_path, out_path)
-            processing_times.append(duration)
+            duration_ms = process_file(model, in_path, out_path)
             
-        if processing_times:
-            avg_time = np.mean(processing_times) * 1000
-            print("-" * 40)
-            print(f"✅ AI Denoising Complete.")
-            print(f"⚡ Average Time: {avg_time:.2f} ms per file")
+            stats.append({
+                "filename": f,
+                "category": category,
+                "snr_level": get_snr_level(f),
+                "method": METHOD_NAME,
+                "processing_time_ms": round(duration_ms, 2)
+            })
+            
+        save_stats(stats, args.output_dir)
+        print(f"✅ AI Denoising Complete.")
 
     elif args.input_file and args.output_file:
         os.makedirs(os.path.dirname(args.output_file), exist_ok=True)
-        duration = process_file(model, args.input_file, args.output_file)
+        duration_ms = process_file(model, args.input_file, args.output_file)
+        
+        category = os.path.basename(os.path.dirname(args.input_file))
+        filename = os.path.basename(args.input_file)
+        
+        stats.append({
+            "filename": filename,
+            "category": category,
+            "snr_level": get_snr_level(filename),
+            "method": METHOD_NAME,
+            "processing_time_ms": round(duration_ms, 2)
+        })
+        
+        save_stats(stats, os.path.dirname(args.output_file))
         print(f"✅ AI Denoising Complete.")
         
     else:

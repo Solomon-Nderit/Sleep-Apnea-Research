@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_100_plus_2-99796-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5543.54
+1_124_plus_2-120333-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5413.5
+1_130_plus_4-167155-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5609.93
+1_292_plus_3-144106-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5689.92
+1_364_plus_5-223099-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5505.63
+1_366_plus_5-244178-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5537.44
+1_410_plus_4-177243-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,5952.18
+1_416_plus_1-94231-B-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,6164.97
+1_52_plus_5-223099-B-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,6397.0
+1_56_plus_5-234923-A-32_0dB.wav,keyboard_typing,0dB,DeepFilterNet,6143.96

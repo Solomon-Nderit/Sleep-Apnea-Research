@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_181_plus_2-160888-A-47_-5dB.wav,airplane,-5dB,Demucs,5329.29
+1_222_plus_4-161099-A-47_-5dB.wav,airplane,-5dB,Demucs,3727.24
+1_24_plus_3-128512-A-47_-5dB.wav,airplane,-5dB,Demucs,3784.59
+1_265_plus_4-251959-A-47_-5dB.wav,airplane,-5dB,Demucs,3847.58
+1_27_plus_5-251957-A-47_-5dB.wav,airplane,-5dB,Demucs,3908.82
+1_317_plus_4-161105-B-47_-5dB.wav,airplane,-5dB,Demucs,3793.48
+1_38_plus_2-78781-A-47_-5dB.wav,airplane,-5dB,Demucs,3897.09
+1_490_plus_4-255371-A-47_-5dB.wav,airplane,-5dB,Demucs,3754.3
+1_64_plus_5-251963-A-47_-5dB.wav,airplane,-5dB,Demucs,3739.46
+1_6_plus_1-36929-A-47_-5dB.wav,airplane,-5dB,Demucs,3786.19

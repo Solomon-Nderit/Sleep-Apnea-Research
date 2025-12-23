@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_19_plus_5-208810-B-11_-5dB.wav,sea_waves,-5dB,Wavelet,2443.01
+1_232_plus_3-144827-B-11_-5dB.wav,sea_waves,-5dB,Wavelet,4.53
+1_265_plus_1-91359-B-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.5
+1_306_plus_4-167063-B-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.01
+1_442_plus_2-102852-A-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.01
+1_444_plus_5-213077-A-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.0
+1_466_plus_3-164120-A-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.23
+1_52_plus_1-91359-A-11_-5dB.wav,sea_waves,-5dB,Wavelet,2.51
+1_64_plus_1-39901-A-11_-5dB.wav,sea_waves,-5dB,Wavelet,2.83
+1_65_plus_4-182613-B-11_-5dB.wav,sea_waves,-5dB,Wavelet,3.01

@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_145_plus_2-66637-A-20_-5dB.wav,crying_baby,-5dB,Wavelet,2619.22
+1_254_plus_4-167077-B-20_-5dB.wav,crying_baby,-5dB,Wavelet,3.5
+1_257_plus_4-185575-A-20_-5dB.wav,crying_baby,-5dB,Wavelet,3.01
+1_341_plus_1-211527-C-20_-5dB.wav,crying_baby,-5dB,Wavelet,2.5
+1_433_plus_1-22694-B-20_-5dB.wav,crying_baby,-5dB,Wavelet,3.77
+1_458_plus_3-152007-A-20_-5dB.wav,crying_baby,-5dB,Wavelet,3.04
+1_475_plus_1-22694-A-20_-5dB.wav,crying_baby,-5dB,Wavelet,2.72
+1_484_plus_5-198411-G-20_-5dB.wav,crying_baby,-5dB,Wavelet,2.29
+1_498_plus_4-59579-A-20_-5dB.wav,crying_baby,-5dB,Wavelet,2.0
+1_89_plus_3-152007-D-20_-5dB.wav,crying_baby,-5dB,Wavelet,2.52

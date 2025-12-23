@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_237_plus_2-123712-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,28.7
+1_23_plus_1-51805-C-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,26.98
+1_293_plus_2-70344-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,24.53
+1_321_plus_4-132839-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,24.03
+1_407_plus_4-107120-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,20.53
+1_454_plus_4-107122-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,22.03
+1_48_plus_1-51805-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,19.05
+1_498_plus_5-161270-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,19.03
+1_4_plus_4-107117-A-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,22.04
+1_94_plus_1-51805-H-33_-5dB.wav,door_wood_creaks,-5dB,Spectral Gating,26.49

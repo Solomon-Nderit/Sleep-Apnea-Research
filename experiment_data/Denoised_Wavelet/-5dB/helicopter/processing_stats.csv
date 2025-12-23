@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_12_plus_1-181071-B-40_-5dB.wav,helicopter,-5dB,Wavelet,2425.24
+1_168_plus_5-177957-C-40_-5dB.wav,helicopter,-5dB,Wavelet,3.01
+1_236_plus_2-188822-D-40_-5dB.wav,helicopter,-5dB,Wavelet,3.38
+1_33_plus_2-188822-C-40_-5dB.wav,helicopter,-5dB,Wavelet,3.01
+1_394_plus_3-150979-A-40_-5dB.wav,helicopter,-5dB,Wavelet,3.01
+1_397_plus_4-175000-B-40_-5dB.wav,helicopter,-5dB,Wavelet,2.51
+1_430_plus_5-205898-A-40_-5dB.wav,helicopter,-5dB,Wavelet,3.5
+1_442_plus_4-161579-A-40_-5dB.wav,helicopter,-5dB,Wavelet,3.51
+1_82_plus_4-193480-A-40_-5dB.wav,helicopter,-5dB,Wavelet,3.01
+1_99_plus_5-191131-A-40_-5dB.wav,helicopter,-5dB,Wavelet,2.51

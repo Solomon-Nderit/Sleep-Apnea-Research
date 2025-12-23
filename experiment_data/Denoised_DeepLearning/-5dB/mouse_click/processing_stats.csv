@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_184_plus_4-201300-A-31_-5dB.wav,mouse_click,-5dB,Demucs,5407.74
+1_225_plus_1-81851-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3650.05
+1_249_plus_3-158056-B-31_-5dB.wav,mouse_click,-5dB,Demucs,3691.41
+1_262_plus_3-167096-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3671.2
+1_275_plus_3-185313-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3656.55
+1_397_plus_2-119139-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3688.51
+1_41_plus_4-195305-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3682.04
+1_485_plus_1-95563-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3681.19
+1_490_plus_2-153388-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3683.14
+1_499_plus_1-118206-A-31_-5dB.wav,mouse_click,-5dB,Demucs,3656.97

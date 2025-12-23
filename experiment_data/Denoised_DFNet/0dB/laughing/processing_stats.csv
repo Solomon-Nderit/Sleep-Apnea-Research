@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_107_plus_1-36164-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3736.5
+1_132_plus_4-164243-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3629.77
+1_159_plus_2-60791-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3711.2
+1_218_plus_5-244526-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3758.31
+1_296_plus_5-171118-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3622.14
+1_298_plus_2-79775-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3686.94
+1_314_plus_5-242932-A-26_0dB.wav,laughing,0dB,DeepFilterNet,3753.58
+1_463_plus_1-30043-A-26_0dB.wav,laughing,0dB,DeepFilterNet,4603.73
+1_482_plus_3-110536-A-26_0dB.wav,laughing,0dB,DeepFilterNet,4323.76
+1_58_plus_5-263775-A-26_0dB.wav,laughing,0dB,DeepFilterNet,4599.65

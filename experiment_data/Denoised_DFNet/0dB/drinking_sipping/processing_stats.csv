@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_180_plus_3-169907-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6145.48
+1_184_plus_1-17295-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,5980.63
+1_216_plus_2-94807-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,5938.42
+1_245_plus_4-210593-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,5915.46
+1_278_plus_2-122763-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6387.43
+1_302_plus_4-194808-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6130.37
+1_322_plus_5-259640-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6358.8
+1_413_plus_4-204202-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6365.79
+1_42_plus_2-92978-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6293.3
+1_79_plus_5-243036-A-29_0dB.wav,drinking_sipping,0dB,DeepFilterNet,6378.13

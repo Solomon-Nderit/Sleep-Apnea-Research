@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_114_plus_2-51173-A-35_-5dB.wav,washing_machine,-5dB,Wiener,1722.06
+1_135_plus_1-32373-A-35_-5dB.wav,washing_machine,-5dB,Wiener,3.0
+1_142_plus_3-156393-A-35_-5dB.wav,washing_machine,-5dB,Wiener,2.0
+1_247_plus_1-49098-A-35_-5dB.wav,washing_machine,-5dB,Wiener,2.52
+1_290_plus_3-182710-B-35_-5dB.wav,washing_machine,-5dB,Wiener,2.59
+1_363_plus_5-207811-A-35_-5dB.wav,washing_machine,-5dB,Wiener,2.32
+1_379_plus_2-102567-C-35_-5dB.wav,washing_machine,-5dB,Wiener,2.31
+1_429_plus_5-141683-A-35_-5dB.wav,washing_machine,-5dB,Wiener,1.88
+1_467_plus_3-151273-A-35_-5dB.wav,washing_machine,-5dB,Wiener,2.01
+1_72_plus_1-27165-A-35_-5dB.wav,washing_machine,-5dB,Wiener,2.5

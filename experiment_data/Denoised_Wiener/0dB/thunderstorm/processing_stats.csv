@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_108_plus_2-39945-B-19_0dB.wav,thunderstorm,0dB,Wiener,1509.81
+1_148_plus_5-188495-A-19_0dB.wav,thunderstorm,0dB,Wiener,2.5
+1_183_plus_2-39945-A-19_0dB.wav,thunderstorm,0dB,Wiener,2.01
+1_199_plus_1-24524-A-19_0dB.wav,thunderstorm,0dB,Wiener,1.51
+1_339_plus_3-103051-A-19_0dB.wav,thunderstorm,0dB,Wiener,2.0
+1_33_plus_5-195557-A-19_0dB.wav,thunderstorm,0dB,Wiener,1.5
+1_36_plus_3-144891-A-19_0dB.wav,thunderstorm,0dB,Wiener,2.0
+1_47_plus_1-101296-A-19_0dB.wav,thunderstorm,0dB,Wiener,1.5
+1_51_plus_1-24524-B-19_0dB.wav,thunderstorm,0dB,Wiener,3.01
+1_6_plus_4-125070-A-19_0dB.wav,thunderstorm,0dB,Wiener,2.36

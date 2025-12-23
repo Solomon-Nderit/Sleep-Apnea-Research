@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_112_plus_5-259180-A-15_0dB.wav,water_drops,0dB,Wavelet,2362.93
+1_113_plus_1-16746-A-15_0dB.wav,water_drops,0dB,Wavelet,4.0
+1_171_plus_1-23094-B-15_0dB.wav,water_drops,0dB,Wavelet,4.01
+1_190_plus_1-12654-A-15_0dB.wav,water_drops,0dB,Wavelet,3.6
+1_251_plus_5-261439-A-15_0dB.wav,water_drops,0dB,Wavelet,2.67
+1_257_plus_4-188293-A-15_0dB.wav,water_drops,0dB,Wavelet,2.5
+1_359_plus_1-12653-A-15_0dB.wav,water_drops,0dB,Wavelet,3.02
+1_389_plus_3-164592-A-15_0dB.wav,water_drops,0dB,Wavelet,3.0
+1_496_plus_4-168155-A-15_0dB.wav,water_drops,0dB,Wavelet,2.5
+1_498_plus_3-164594-A-15_0dB.wav,water_drops,0dB,Wavelet,2.51

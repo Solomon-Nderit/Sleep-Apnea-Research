@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_134_plus_3-243726-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6272.86
+1_179_plus_4-191015-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6286.73
+1_190_plus_4-178402-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6258.6
+1_207_plus_4-175855-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6202.46
+1_238_plus_1-26177-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6271.02
+1_342_plus_3-155234-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6249.33
+1_386_plus_1-24074-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6225.59
+1_392_plus_3-146697-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6296.9
+1_75_plus_1-24076-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6322.49
+1_78_plus_5-179860-A-43_-5dB.wav,car_horn,-5dB,DeepFilterNet,6111.62

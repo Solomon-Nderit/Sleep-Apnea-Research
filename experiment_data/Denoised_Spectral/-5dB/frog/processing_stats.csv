@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_2-32515-B-4_-5dB.wav,frog,-5dB,Spectral Gating,20.02
+1_187_plus_4-99644-B-4_-5dB.wav,frog,-5dB,Spectral Gating,23.57
+1_230_plus_4-99644-A-4_-5dB.wav,frog,-5dB,Spectral Gating,24.55
+1_240_plus_4-99644-C-4_-5dB.wav,frog,-5dB,Spectral Gating,19.05
+1_249_plus_3-70962-A-4_-5dB.wav,frog,-5dB,Spectral Gating,19.1
+1_277_plus_2-52789-A-4_-5dB.wav,frog,-5dB,Spectral Gating,19.57
+1_36_plus_1-18757-A-4_-5dB.wav,frog,-5dB,Spectral Gating,22.96
+1_425_plus_5-189795-A-4_-5dB.wav,frog,-5dB,Spectral Gating,26.05
+1_481_plus_4-99193-A-4_-5dB.wav,frog,-5dB,Spectral Gating,19.03
+1_488_plus_5-187201-A-4_-5dB.wav,frog,-5dB,Spectral Gating,24.12

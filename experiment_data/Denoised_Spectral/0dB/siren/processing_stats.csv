@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_165_plus_3-51731-B-42_0dB.wav,siren,0dB,Spectral Gating,26.05
+1_210_plus_1-76831-A-42_0dB.wav,siren,0dB,Spectral Gating,25.56
+1_300_plus_1-76831-C-42_0dB.wav,siren,0dB,Spectral Gating,26.03
+1_349_plus_4-80761-A-42_0dB.wav,siren,0dB,Spectral Gating,27.89
+1_404_plus_5-160551-A-42_0dB.wav,siren,0dB,Spectral Gating,24.34
+1_412_plus_1-76831-B-42_0dB.wav,siren,0dB,Spectral Gating,25.99
+1_421_plus_4-90014-A-42_0dB.wav,siren,0dB,Spectral Gating,22.02
+1_451_plus_3-58772-A-42_0dB.wav,siren,0dB,Spectral Gating,18.15
+1_463_plus_3-51376-A-42_0dB.wav,siren,0dB,Spectral Gating,18.53
+1_51_plus_2-70936-A-42_0dB.wav,siren,0dB,Spectral Gating,18.52

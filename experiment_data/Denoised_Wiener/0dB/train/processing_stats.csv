@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_200_plus_3-159445-B-45_0dB.wav,train,0dB,Wiener,1682.04
+1_211_plus_4-165606-A-45_0dB.wav,train,0dB,Wiener,5.01
+1_215_plus_1-88409-A-45_0dB.wav,train,0dB,Wiener,2.31
+1_237_plus_2-122066-A-45_0dB.wav,train,0dB,Wiener,1.55
+1_245_plus_3-135650-B-45_0dB.wav,train,0dB,Wiener,2.52
+1_254_plus_4-168446-A-45_0dB.wav,train,0dB,Wiener,3.5
+1_470_plus_4-165845-A-45_0dB.wav,train,0dB,Wiener,2.0
+1_489_plus_2-135649-A-45_0dB.wav,train,0dB,Wiener,1.5
+1_493_plus_4-165791-A-45_0dB.wav,train,0dB,Wiener,2.01
+1_54_plus_4-165845-B-45_0dB.wav,train,0dB,Wiener,1.73

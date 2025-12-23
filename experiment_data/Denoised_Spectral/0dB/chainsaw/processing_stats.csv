@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_101_plus_1-47250-B-41_0dB.wav,chainsaw,0dB,Spectral Gating,22.02
+1_202_plus_1-19898-C-41_0dB.wav,chainsaw,0dB,Spectral Gating,24.69
+1_220_plus_4-149294-B-41_0dB.wav,chainsaw,0dB,Spectral Gating,18.07
+1_233_plus_5-216370-A-41_0dB.wav,chainsaw,0dB,Spectral Gating,19.07
+1_304_plus_3-118658-B-41_0dB.wav,chainsaw,0dB,Spectral Gating,16.76
+1_358_plus_4-169127-A-41_0dB.wav,chainsaw,0dB,Spectral Gating,14.52
+1_385_plus_3-118656-A-41_0dB.wav,chainsaw,0dB,Spectral Gating,14.51
+1_494_plus_2-50668-B-41_0dB.wav,chainsaw,0dB,Spectral Gating,18.04
+1_56_plus_2-50667-A-41_0dB.wav,chainsaw,0dB,Spectral Gating,17.53
+1_78_plus_4-157611-A-41_0dB.wav,chainsaw,0dB,Spectral Gating,13.51

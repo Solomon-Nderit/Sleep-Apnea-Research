@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_132_plus_2-182508-A-8_0dB.wav,sheep,0dB,Demucs,5465.56
+1_167_plus_4-250864-A-8_0dB.wav,sheep,0dB,Demucs,3775.51
+1_197_plus_3-197408-B-8_0dB.wav,sheep,0dB,Demucs,3827.64
+1_235_plus_4-188703-D-8_0dB.wav,sheep,0dB,Demucs,3576.01
+1_276_plus_5-200329-A-8_0dB.wav,sheep,0dB,Demucs,3562.27
+1_27_plus_3-140199-B-8_0dB.wav,sheep,0dB,Demucs,3600.99
+1_375_plus_5-61635-A-8_0dB.wav,sheep,0dB,Demucs,3617.96
+1_401_plus_3-140199-A-8_0dB.wav,sheep,0dB,Demucs,3635.61
+1_53_plus_1-57795-A-8_0dB.wav,sheep,0dB,Demucs,3887.77
+1_70_plus_1-121951-A-8_0dB.wav,sheep,0dB,Demucs,3921.89

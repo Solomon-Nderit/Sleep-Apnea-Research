@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_127_plus_1-47714-A-16_-5dB.wav,wind,-5dB,Spectral Gating,19.52
+1_144_plus_1-51036-A-16_-5dB.wav,wind,-5dB,Spectral Gating,26.93
+1_150_plus_4-144083-B-16_-5dB.wav,wind,-5dB,Spectral Gating,20.02
+1_286_plus_2-109371-B-16_-5dB.wav,wind,-5dB,Spectral Gating,18.53
+1_370_plus_1-69760-A-16_-5dB.wav,wind,-5dB,Spectral Gating,20.03
+1_43_plus_4-163606-A-16_-5dB.wav,wind,-5dB,Spectral Gating,23.82
+1_450_plus_2-109371-C-16_-5dB.wav,wind,-5dB,Spectral Gating,25.56
+1_477_plus_5-217186-C-16_-5dB.wav,wind,-5dB,Spectral Gating,21.03
+1_53_plus_3-134699-B-16_-5dB.wav,wind,-5dB,Spectral Gating,21.21
+1_75_plus_4-163609-A-16_-5dB.wav,wind,-5dB,Spectral Gating,19.84

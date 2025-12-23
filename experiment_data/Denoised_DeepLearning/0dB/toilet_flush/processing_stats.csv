@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_102_plus_2-67422-A-18_0dB.wav,toilet_flush,0dB,Demucs,5574.9
+1_107_plus_5-177034-A-18_0dB.wav,toilet_flush,0dB,Demucs,3755.5
+1_140_plus_2-74977-A-18_0dB.wav,toilet_flush,0dB,Demucs,3974.98
+1_215_plus_3-118059-A-18_0dB.wav,toilet_flush,0dB,Demucs,3727.46
+1_239_plus_4-152958-A-18_0dB.wav,toilet_flush,0dB,Demucs,3654.8
+1_26_plus_1-30214-A-18_0dB.wav,toilet_flush,0dB,Demucs,3649.79
+1_281_plus_1-53670-A-18_0dB.wav,toilet_flush,0dB,Demucs,3743.21
+1_309_plus_5-185908-A-18_0dB.wav,toilet_flush,0dB,Demucs,3792.4
+1_448_plus_3-112356-A-18_0dB.wav,toilet_flush,0dB,Demucs,3819.71
+1_56_plus_4-126532-A-18_0dB.wav,toilet_flush,0dB,Demucs,3833.74

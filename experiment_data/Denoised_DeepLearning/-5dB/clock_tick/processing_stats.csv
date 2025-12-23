@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_158_plus_4-191327-A-38_-5dB.wav,clock_tick,-5dB,Demucs,5380.33
+1_16_plus_1-35687-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3737.14
+1_172_plus_1-57163-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3764.69
+1_18_plus_5-235671-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3730.41
+1_235_plus_3-143933-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3746.09
+1_244_plus_5-219342-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3691.42
+1_296_plus_2-127108-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3751.14
+1_324_plus_4-194711-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3775.12
+1_486_plus_4-181035-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3761.43
+1_55_plus_1-48413-A-38_-5dB.wav,clock_tick,-5dB,Demucs,3810.63

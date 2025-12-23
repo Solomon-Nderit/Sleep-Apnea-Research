@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_2-32515-B-4_-5dB.wav,frog,-5dB,Demucs,5368.22
+1_187_plus_4-99644-B-4_-5dB.wav,frog,-5dB,Demucs,3676.91
+1_230_plus_4-99644-A-4_-5dB.wav,frog,-5dB,Demucs,3665.56
+1_240_plus_4-99644-C-4_-5dB.wav,frog,-5dB,Demucs,3681.95
+1_249_plus_3-70962-A-4_-5dB.wav,frog,-5dB,Demucs,3651.89
+1_277_plus_2-52789-A-4_-5dB.wav,frog,-5dB,Demucs,3657.44
+1_36_plus_1-18757-A-4_-5dB.wav,frog,-5dB,Demucs,3674.53
+1_425_plus_5-189795-A-4_-5dB.wav,frog,-5dB,Demucs,3718.17
+1_481_plus_4-99193-A-4_-5dB.wav,frog,-5dB,Demucs,3694.64
+1_488_plus_5-187201-A-4_-5dB.wav,frog,-5dB,Demucs,3647.48

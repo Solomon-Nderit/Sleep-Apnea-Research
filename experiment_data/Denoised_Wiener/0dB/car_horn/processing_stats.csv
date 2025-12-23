@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_134_plus_3-243726-A-43_0dB.wav,car_horn,0dB,Wiener,1245.46
+1_179_plus_4-191015-A-43_0dB.wav,car_horn,0dB,Wiener,1.94
+1_190_plus_4-178402-A-43_0dB.wav,car_horn,0dB,Wiener,2.24
+1_207_plus_4-175855-A-43_0dB.wav,car_horn,0dB,Wiener,1.51
+1_238_plus_1-26177-A-43_0dB.wav,car_horn,0dB,Wiener,1.69
+1_342_plus_3-155234-A-43_0dB.wav,car_horn,0dB,Wiener,0.88
+1_386_plus_1-24074-A-43_0dB.wav,car_horn,0dB,Wiener,1.44
+1_392_plus_3-146697-A-43_0dB.wav,car_horn,0dB,Wiener,1.85
+1_75_plus_1-24076-A-43_0dB.wav,car_horn,0dB,Wiener,1.89
+1_78_plus_5-179860-A-43_0dB.wav,car_horn,0dB,Wiener,1.88

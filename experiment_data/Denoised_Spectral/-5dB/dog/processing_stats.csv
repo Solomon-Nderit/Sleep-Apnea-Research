@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_11_plus_1-110389-A-0_-5dB.wav,dog,-5dB,Spectral Gating,26.47
+1_133_plus_5-208030-A-0_-5dB.wav,dog,-5dB,Spectral Gating,28.06
+1_142_plus_2-114587-A-0_-5dB.wav,dog,-5dB,Spectral Gating,25.07
+1_168_plus_3-144028-A-0_-5dB.wav,dog,-5dB,Spectral Gating,28.06
+1_278_plus_5-203128-A-0_-5dB.wav,dog,-5dB,Spectral Gating,27.55
+1_290_plus_4-182395-A-0_-5dB.wav,dog,-5dB,Spectral Gating,24.55
+1_310_plus_4-191687-A-0_-5dB.wav,dog,-5dB,Spectral Gating,19.57
+1_319_plus_4-207124-A-0_-5dB.wav,dog,-5dB,Spectral Gating,23.54
+1_402_plus_3-180256-A-0_-5dB.wav,dog,-5dB,Spectral Gating,25.54
+1_439_plus_5-231762-A-0_-5dB.wav,dog,-5dB,Spectral Gating,28.06

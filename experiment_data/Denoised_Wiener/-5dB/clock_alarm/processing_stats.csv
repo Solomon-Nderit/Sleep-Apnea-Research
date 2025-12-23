@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_161_plus_1-96890-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,1819.93
+1_211_plus_4-209698-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,3.01
+1_236_plus_5-219242-B-37_-5dB.wav,clock_alarm,-5dB,Wiener,3.0
+1_268_plus_3-148297-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,3.19
+1_292_plus_5-219242-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,2.5
+1_295_plus_2-78562-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,2.0
+1_31_plus_5-234247-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,2.0
+1_383_plus_1-74517-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,1.0
+1_475_plus_5-233645-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,3.01
+1_65_plus_2-102435-A-37_-5dB.wav,clock_alarm,-5dB,Wiener,2.01

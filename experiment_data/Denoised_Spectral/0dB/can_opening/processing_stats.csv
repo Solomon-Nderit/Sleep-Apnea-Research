@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_129_plus_2-130245-A-34_0dB.wav,can_opening,0dB,Spectral Gating,24.6
+1_208_plus_1-41615-A-34_0dB.wav,can_opening,0dB,Spectral Gating,25.26
+1_28_plus_2-81190-A-34_0dB.wav,can_opening,0dB,Spectral Gating,18.04
+1_305_plus_2-83688-A-34_0dB.wav,can_opening,0dB,Spectral Gating,20.52
+1_326_plus_1-68734-A-34_0dB.wav,can_opening,0dB,Spectral Gating,21.64
+1_336_plus_4-175025-A-34_0dB.wav,can_opening,0dB,Spectral Gating,13.66
+1_402_plus_3-148932-A-34_0dB.wav,can_opening,0dB,Spectral Gating,19.71
+1_424_plus_1-43764-A-34_0dB.wav,can_opening,0dB,Spectral Gating,23.26
+1_485_plus_2-83667-A-34_0dB.wav,can_opening,0dB,Spectral Gating,20.59
+1_496_plus_1-101404-A-34_0dB.wav,can_opening,0dB,Spectral Gating,14.02

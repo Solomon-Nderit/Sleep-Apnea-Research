@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_114_plus_2-51173-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5877.79
+1_135_plus_1-32373-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,6185.94
+1_142_plus_3-156393-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,6023.09
+1_247_plus_1-49098-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5944.62
+1_290_plus_3-182710-B-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5911.94
+1_363_plus_5-207811-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5999.76
+1_379_plus_2-102567-C-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5934.7
+1_429_plus_5-141683-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5959.73
+1_467_plus_3-151273-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,6048.53
+1_72_plus_1-27165-A-35_0dB.wav,washing_machine,0dB,DeepFilterNet,5875.98

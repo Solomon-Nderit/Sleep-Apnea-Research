@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_102_plus_2-67422-A-18_0dB.wav,toilet_flush,0dB,Wiener,1759.78
+1_107_plus_5-177034-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.0
+1_140_plus_2-74977-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.39
+1_215_plus_3-118059-A-18_0dB.wav,toilet_flush,0dB,Wiener,2.5
+1_239_plus_4-152958-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.0
+1_26_plus_1-30214-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.0
+1_281_plus_1-53670-A-18_0dB.wav,toilet_flush,0dB,Wiener,2.01
+1_309_plus_5-185908-A-18_0dB.wav,toilet_flush,0dB,Wiener,4.2
+1_448_plus_3-112356-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.43
+1_56_plus_4-126532-A-18_0dB.wav,toilet_flush,0dB,Wiener,3.51

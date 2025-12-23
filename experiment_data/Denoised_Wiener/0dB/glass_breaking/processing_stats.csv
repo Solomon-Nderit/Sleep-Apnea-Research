@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_100_plus_1-977-A-39_0dB.wav,glass_breaking,0dB,Wiener,1672.36
+1_105_plus_4-212698-A-39_0dB.wav,glass_breaking,0dB,Wiener,3.13
+1_156_plus_2-106881-A-39_0dB.wav,glass_breaking,0dB,Wiener,1.94
+1_223_plus_5-260434-A-39_0dB.wav,glass_breaking,0dB,Wiener,1.01
+1_252_plus_1-84536-A-39_0dB.wav,glass_breaking,0dB,Wiener,1.5
+1_302_plus_5-221529-A-39_0dB.wav,glass_breaking,0dB,Wiener,1.0
+1_30_plus_4-204777-C-39_0dB.wav,glass_breaking,0dB,Wiener,1.63
+1_425_plus_2-141563-A-39_0dB.wav,glass_breaking,0dB,Wiener,2.01
+1_58_plus_1-84704-A-39_0dB.wav,glass_breaking,0dB,Wiener,1.5
+1_96_plus_3-203371-A-39_0dB.wav,glass_breaking,0dB,Wiener,2.0

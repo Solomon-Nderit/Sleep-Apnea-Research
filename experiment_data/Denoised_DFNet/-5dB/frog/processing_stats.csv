@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_2-32515-B-4_-5dB.wav,frog,-5dB,DeepFilterNet,5801.89
+1_187_plus_4-99644-B-4_-5dB.wav,frog,-5dB,DeepFilterNet,5728.37
+1_230_plus_4-99644-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5861.26
+1_240_plus_4-99644-C-4_-5dB.wav,frog,-5dB,DeepFilterNet,5705.79
+1_249_plus_3-70962-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5970.27
+1_277_plus_2-52789-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5847.29
+1_36_plus_1-18757-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5959.75
+1_425_plus_5-189795-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5818.41
+1_481_plus_4-99193-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5733.19
+1_488_plus_5-187201-A-4_-5dB.wav,frog,-5dB,DeepFilterNet,5814.34

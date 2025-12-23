@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_124_plus_2-126433-A-17_0dB.wav,pouring_water,0dB,Demucs,4136.56
+1_13_plus_2-102414-F-17_0dB.wav,pouring_water,0dB,Demucs,3008.05
+1_163_plus_4-187504-A-17_0dB.wav,pouring_water,0dB,Demucs,3008.44
+1_191_plus_4-181628-A-17_0dB.wav,pouring_water,0dB,Demucs,3009.53
+1_246_plus_4-186693-A-17_0dB.wav,pouring_water,0dB,Demucs,2984.94
+1_281_plus_1-51436-A-17_0dB.wav,pouring_water,0dB,Demucs,2981.37
+1_409_plus_2-102414-G-17_0dB.wav,pouring_water,0dB,Demucs,2985.1
+1_440_plus_5-207781-A-17_0dB.wav,pouring_water,0dB,Demucs,3093.96
+1_450_plus_5-205589-A-17_0dB.wav,pouring_water,0dB,Demucs,2877.17
+1_59_plus_1-50625-A-17_0dB.wav,pouring_water,0dB,Demucs,3111.12

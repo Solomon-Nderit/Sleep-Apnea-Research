@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_100_plus_1-977-A-39_0dB.wav,glass_breaking,0dB,Demucs,5453.36
+1_105_plus_4-212698-A-39_0dB.wav,glass_breaking,0dB,Demucs,3616.64
+1_156_plus_2-106881-A-39_0dB.wav,glass_breaking,0dB,Demucs,3645.7
+1_223_plus_5-260434-A-39_0dB.wav,glass_breaking,0dB,Demucs,3648.61
+1_252_plus_1-84536-A-39_0dB.wav,glass_breaking,0dB,Demucs,3914.62
+1_302_plus_5-221529-A-39_0dB.wav,glass_breaking,0dB,Demucs,3879.62
+1_30_plus_4-204777-C-39_0dB.wav,glass_breaking,0dB,Demucs,3125.04
+1_425_plus_2-141563-A-39_0dB.wav,glass_breaking,0dB,Demucs,3139.97
+1_58_plus_1-84704-A-39_0dB.wav,glass_breaking,0dB,Demucs,3662.03
+1_96_plus_3-203371-A-39_0dB.wav,glass_breaking,0dB,Demucs,3601.45

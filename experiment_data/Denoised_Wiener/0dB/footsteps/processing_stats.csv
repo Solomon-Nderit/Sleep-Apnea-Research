@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_103_plus_4-218304-A-25_0dB.wav,footsteps,0dB,Wiener,1102.49
+1_173_plus_2-209473-A-25_0dB.wav,footsteps,0dB,Wiener,1.68
+1_205_plus_3-249913-A-25_0dB.wav,footsteps,0dB,Wiener,1.2
+1_212_plus_5-51149-A-25_0dB.wav,footsteps,0dB,Wiener,1.0
+1_354_plus_1-223162-A-25_0dB.wav,footsteps,0dB,Wiener,3.0
+1_37_plus_3-103597-A-25_0dB.wav,footsteps,0dB,Wiener,1.28
+1_400_plus_4-198962-A-25_0dB.wav,footsteps,0dB,Wiener,0.75
+1_476_plus_4-198962-B-25_0dB.wav,footsteps,0dB,Wiener,0.68
+1_47_plus_5-234263-A-25_0dB.wav,footsteps,0dB,Wiener,2.18
+1_98_plus_1-155858-E-25_0dB.wav,footsteps,0dB,Wiener,1.0

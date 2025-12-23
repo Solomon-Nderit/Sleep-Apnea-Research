@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_237_plus_2-123712-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,5900.85
+1_23_plus_1-51805-C-33_0dB.wav,door_wood_creaks,0dB,Demucs,3732.44
+1_293_plus_2-70344-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3780.69
+1_321_plus_4-132839-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3739.94
+1_407_plus_4-107120-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3749.85
+1_454_plus_4-107122-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3672.74
+1_48_plus_1-51805-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3708.62
+1_498_plus_5-161270-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3704.18
+1_4_plus_4-107117-A-33_0dB.wav,door_wood_creaks,0dB,Demucs,3693.82
+1_94_plus_1-51805-H-33_0dB.wav,door_wood_creaks,0dB,Demucs,3672.76

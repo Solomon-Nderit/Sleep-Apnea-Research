@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_5-182007-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,20.88
+1_206_plus_2-106073-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,26.55
+1_289_plus_3-159347-B-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,22.58
+1_305_plus_2-106072-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,20.53
+1_310_plus_1-19872-B-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,26.04
+1_336_plus_2-141681-B-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,26.91
+1_386_plus_2-141682-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,21.56
+1_417_plus_3-159346-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,20.58
+1_423_plus_5-212054-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,18.53
+1_88_plus_1-79236-A-36_-5dB.wav,vacuum_cleaner,-5dB,Spectral Gating,19.54

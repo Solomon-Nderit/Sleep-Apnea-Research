@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_136_plus_4-172500-D-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,24.05
+1_213_plus_5-218196-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,18.53
+1_236_plus_3-118069-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,17.72
+1_24_plus_5-180229-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,17.5
+1_256_plus_4-172500-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,18.06
+1_290_plus_3-126391-B-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,14.85
+1_351_plus_1-58923-B-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,13.12
+1_412_plus_3-139331-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,16.08
+1_426_plus_5-220939-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,14.01
+1_56_plus_2-86160-A-27_0dB.wav,brushing_teeth,0dB,Spectral Gating,17.52

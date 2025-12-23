@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_112_plus_5-259180-A-15_0dB.wav,water_drops,0dB,Spectral Gating,26.04
+1_113_plus_1-16746-A-15_0dB.wav,water_drops,0dB,Spectral Gating,25.03
+1_171_plus_1-23094-B-15_0dB.wav,water_drops,0dB,Spectral Gating,27.53
+1_190_plus_1-12654-A-15_0dB.wav,water_drops,0dB,Spectral Gating,24.37
+1_251_plus_5-261439-A-15_0dB.wav,water_drops,0dB,Spectral Gating,29.05
+1_257_plus_4-188293-A-15_0dB.wav,water_drops,0dB,Spectral Gating,21.55
+1_359_plus_1-12653-A-15_0dB.wav,water_drops,0dB,Spectral Gating,27.05
+1_389_plus_3-164592-A-15_0dB.wav,water_drops,0dB,Spectral Gating,21.05
+1_496_plus_4-168155-A-15_0dB.wav,water_drops,0dB,Spectral Gating,21.18
+1_498_plus_3-164594-A-15_0dB.wav,water_drops,0dB,Spectral Gating,20.43

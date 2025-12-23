@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_124_plus_2-126433-A-17_0dB.wav,pouring_water,0dB,Wiener,1008.42
+1_13_plus_2-102414-F-17_0dB.wav,pouring_water,0dB,Wiener,0.72
+1_163_plus_4-187504-A-17_0dB.wav,pouring_water,0dB,Wiener,1.46
+1_191_plus_4-181628-A-17_0dB.wav,pouring_water,0dB,Wiener,1.53
+1_246_plus_4-186693-A-17_0dB.wav,pouring_water,0dB,Wiener,1.48
+1_281_plus_1-51436-A-17_0dB.wav,pouring_water,0dB,Wiener,1.0
+1_409_plus_2-102414-G-17_0dB.wav,pouring_water,0dB,Wiener,1.0
+1_440_plus_5-207781-A-17_0dB.wav,pouring_water,0dB,Wiener,1.0
+1_450_plus_5-205589-A-17_0dB.wav,pouring_water,0dB,Wiener,1.5
+1_59_plus_1-50625-A-17_0dB.wav,pouring_water,0dB,Wiener,2.5

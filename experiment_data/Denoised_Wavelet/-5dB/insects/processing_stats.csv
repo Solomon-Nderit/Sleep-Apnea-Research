@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_150_plus_3-105236-A-7_-5dB.wav,insects,-5dB,Wavelet,2537.41
+1_275_plus_2-81970-A-7_-5dB.wav,insects,-5dB,Wavelet,3.5
+1_324_plus_3-110913-B-7_-5dB.wav,insects,-5dB,Wavelet,3.52
+1_369_plus_3-110913-A-7_-5dB.wav,insects,-5dB,Wavelet,3.49
+1_387_plus_5-194932-A-7_-5dB.wav,insects,-5dB,Wavelet,3.0
+1_400_plus_3-104761-B-7_-5dB.wav,insects,-5dB,Wavelet,3.01
+1_464_plus_5-233787-A-7_-5dB.wav,insects,-5dB,Wavelet,3.01
+1_494_plus_4-182314-B-7_-5dB.wav,insects,-5dB,Wavelet,3.0
+1_69_plus_2-99955-A-7_-5dB.wav,insects,-5dB,Wavelet,3.51
+1_88_plus_4-143118-A-7_-5dB.wav,insects,-5dB,Wavelet,3.18

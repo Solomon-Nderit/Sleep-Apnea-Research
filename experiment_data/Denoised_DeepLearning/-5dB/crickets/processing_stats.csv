@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_106_plus_2-125875-A-13_-5dB.wav,crickets,-5dB,Demucs,5498.63
+1_149_plus_2-80844-A-13_-5dB.wav,crickets,-5dB,Demucs,3779.39
+1_16_plus_3-129338-A-13_-5dB.wav,crickets,-5dB,Demucs,3725.5
+1_271_plus_3-134802-A-13_-5dB.wav,crickets,-5dB,Demucs,3766.44
+1_286_plus_3-155766-A-13_-5dB.wav,crickets,-5dB,Demucs,3751.8
+1_298_plus_1-59102-A-13_-5dB.wav,crickets,-5dB,Demucs,3756.86
+1_366_plus_2-96033-A-13_-5dB.wav,crickets,-5dB,Demucs,3720.51
+1_394_plus_1-7456-A-13_-5dB.wav,crickets,-5dB,Demucs,3715.29
+1_455_plus_3-163607-A-13_-5dB.wav,crickets,-5dB,Demucs,3744.61
+1_97_plus_5-210540-A-13_-5dB.wav,crickets,-5dB,Demucs,3695.44

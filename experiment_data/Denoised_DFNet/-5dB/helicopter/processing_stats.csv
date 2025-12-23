@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_12_plus_1-181071-B-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,5940.67
+1_168_plus_5-177957-C-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6068.41
+1_236_plus_2-188822-D-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6150.71
+1_33_plus_2-188822-C-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6069.06
+1_394_plus_3-150979-A-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6020.04
+1_397_plus_4-175000-B-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6069.37
+1_430_plus_5-205898-A-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6054.93
+1_442_plus_4-161579-A-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6143.69
+1_82_plus_4-193480-A-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6136.86
+1_99_plus_5-191131-A-40_-5dB.wav,helicopter,-5dB,DeepFilterNet,6010.4

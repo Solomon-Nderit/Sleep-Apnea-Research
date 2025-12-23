@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_162_plus_5-182007-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5874.91
+1_206_plus_2-106073-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5885.26
+1_289_plus_3-159347-B-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5839.88
+1_305_plus_2-106072-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5841.44
+1_310_plus_1-19872-B-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,6139.88
+1_336_plus_2-141681-B-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,6088.83
+1_386_plus_2-141682-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5817.45
+1_417_plus_3-159346-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5735.92
+1_423_plus_5-212054-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5896.69
+1_88_plus_1-79236-A-36_0dB.wav,vacuum_cleaner,0dB,DeepFilterNet,5782.05

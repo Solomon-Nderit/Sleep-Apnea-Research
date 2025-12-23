@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_106_plus_2-125875-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4675.7
+1_149_plus_2-80844-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4752.27
+1_16_plus_3-129338-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4657.99
+1_271_plus_3-134802-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4640.65
+1_286_plus_3-155766-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4589.47
+1_298_plus_1-59102-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4580.52
+1_366_plus_2-96033-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4619.16
+1_394_plus_1-7456-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4698.94
+1_455_plus_3-163607-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4809.35
+1_97_plus_5-210540-A-13_0dB.wav,crickets,0dB,DeepFilterNet,4657.69

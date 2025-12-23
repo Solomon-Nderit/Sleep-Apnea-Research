@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_161_plus_4-119648-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,23.49
+1_269_plus_5-160614-E-48_-5dB.wav,fireworks,-5dB,Spectral Gating,25.61
+1_323_plus_2-117615-E-48_-5dB.wav,fireworks,-5dB,Spectral Gating,27.02
+1_35_plus_1-25777-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,25.28
+1_373_plus_2-117616-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,24.35
+1_385_plus_2-165801-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,24.68
+1_402_plus_5-160614-F-48_-5dB.wav,fireworks,-5dB,Spectral Gating,23.31
+1_409_plus_4-119648-C-48_-5dB.wav,fireworks,-5dB,Spectral Gating,24.77
+1_441_plus_1-25781-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,22.02
+1_463_plus_1-115546-A-48_-5dB.wav,fireworks,-5dB,Spectral Gating,21.52

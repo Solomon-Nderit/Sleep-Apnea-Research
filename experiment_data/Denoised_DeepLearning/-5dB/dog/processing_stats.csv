@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_11_plus_1-110389-A-0_-5dB.wav,dog,-5dB,Demucs,5406.33
+1_133_plus_5-208030-A-0_-5dB.wav,dog,-5dB,Demucs,3698.29
+1_142_plus_2-114587-A-0_-5dB.wav,dog,-5dB,Demucs,3708.15
+1_168_plus_3-144028-A-0_-5dB.wav,dog,-5dB,Demucs,3683.63
+1_278_plus_5-203128-A-0_-5dB.wav,dog,-5dB,Demucs,3682.49
+1_290_plus_4-182395-A-0_-5dB.wav,dog,-5dB,Demucs,3760.96
+1_310_plus_4-191687-A-0_-5dB.wav,dog,-5dB,Demucs,3701.53
+1_319_plus_4-207124-A-0_-5dB.wav,dog,-5dB,Demucs,3653.6
+1_402_plus_3-180256-A-0_-5dB.wav,dog,-5dB,Demucs,3644.91
+1_439_plus_5-231762-A-0_-5dB.wav,dog,-5dB,Demucs,3792.28

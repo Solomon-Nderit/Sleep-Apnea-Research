@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_150_plus_3-105236-A-7_0dB.wav,insects,0dB,Spectral Gating,18.69
+1_275_plus_2-81970-A-7_0dB.wav,insects,0dB,Spectral Gating,17.94
+1_324_plus_3-110913-B-7_0dB.wav,insects,0dB,Spectral Gating,14.0
+1_369_plus_3-110913-A-7_0dB.wav,insects,0dB,Spectral Gating,15.5
+1_387_plus_5-194932-A-7_0dB.wav,insects,0dB,Spectral Gating,19.01
+1_400_plus_3-104761-B-7_0dB.wav,insects,0dB,Spectral Gating,19.08
+1_464_plus_5-233787-A-7_0dB.wav,insects,0dB,Spectral Gating,18.0
+1_494_plus_4-182314-B-7_0dB.wav,insects,0dB,Spectral Gating,14.51
+1_69_plus_2-99955-A-7_0dB.wav,insects,0dB,Spectral Gating,16.5
+1_88_plus_4-143118-A-7_0dB.wav,insects,0dB,Spectral Gating,15.5

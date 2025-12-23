@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_11_plus_1-110389-A-0_0dB.wav,dog,0dB,DeepFilterNet,3908.3
+1_133_plus_5-208030-A-0_0dB.wav,dog,0dB,DeepFilterNet,3846.09
+1_142_plus_2-114587-A-0_0dB.wav,dog,0dB,DeepFilterNet,3811.4
+1_168_plus_3-144028-A-0_0dB.wav,dog,0dB,DeepFilterNet,3827.14
+1_278_plus_5-203128-A-0_0dB.wav,dog,0dB,DeepFilterNet,3825.66
+1_290_plus_4-182395-A-0_0dB.wav,dog,0dB,DeepFilterNet,3863.11
+1_310_plus_4-191687-A-0_0dB.wav,dog,0dB,DeepFilterNet,3877.08
+1_319_plus_4-207124-A-0_0dB.wav,dog,0dB,DeepFilterNet,3783.54
+1_402_plus_3-180256-A-0_0dB.wav,dog,0dB,DeepFilterNet,3781.41
+1_439_plus_5-231762-A-0_0dB.wav,dog,0dB,DeepFilterNet,3875.08

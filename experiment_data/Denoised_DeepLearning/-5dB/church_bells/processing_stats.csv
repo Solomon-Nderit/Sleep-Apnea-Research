@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_129_plus_4-150364-A-46_-5dB.wav,church_bells,-5dB,Demucs,5467.31
+1_136_plus_4-140034-A-46_-5dB.wav,church_bells,-5dB,Demucs,3738.3
+1_287_plus_2-61618-A-46_-5dB.wav,church_bells,-5dB,Demucs,3709.46
+1_325_plus_4-147657-A-46_-5dB.wav,church_bells,-5dB,Demucs,3805.89
+1_336_plus_3-111102-A-46_-5dB.wav,church_bells,-5dB,Demucs,3780.24
+1_355_plus_2-59566-A-46_-5dB.wav,church_bells,-5dB,Demucs,3803.79
+1_3_plus_3-111102-B-46_-5dB.wav,church_bells,-5dB,Demucs,3792.81
+1_428_plus_1-54747-A-46_-5dB.wav,church_bells,-5dB,Demucs,3761.45
+1_64_plus_1-13571-A-46_-5dB.wav,church_bells,-5dB,Demucs,3783.56
+1_95_plus_1-48298-A-46_-5dB.wav,church_bells,-5dB,Demucs,3798.48

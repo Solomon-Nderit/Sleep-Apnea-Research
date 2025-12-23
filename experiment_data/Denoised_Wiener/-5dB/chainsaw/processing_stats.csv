@@ -1,0 +1,11 @@
+filename,category,snr_level,method,processing_time_ms
+1_101_plus_1-47250-B-41_-5dB.wav,chainsaw,-5dB,Wiener,1766.16
+1_202_plus_1-19898-C-41_-5dB.wav,chainsaw,-5dB,Wiener,1.52
+1_220_plus_4-149294-B-41_-5dB.wav,chainsaw,-5dB,Wiener,3.41
+1_233_plus_5-216370-A-41_-5dB.wav,chainsaw,-5dB,Wiener,2.55
+1_304_plus_3-118658-B-41_-5dB.wav,chainsaw,-5dB,Wiener,2.5
+1_358_plus_4-169127-A-41_-5dB.wav,chainsaw,-5dB,Wiener,2.2
+1_385_plus_3-118656-A-41_-5dB.wav,chainsaw,-5dB,Wiener,1.65
+1_494_plus_2-50668-B-41_-5dB.wav,chainsaw,-5dB,Wiener,2.28
+1_56_plus_2-50667-A-41_-5dB.wav,chainsaw,-5dB,Wiener,1.0
+1_78_plus_4-157611-A-41_-5dB.wav,chainsaw,-5dB,Wiener,2.51
