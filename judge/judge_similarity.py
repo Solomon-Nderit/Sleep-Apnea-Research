@@ -37,117 +37,117 @@ def compare_files(clean_path, noisy_path):
     return similarity
 
 # --- THE EXPERIMENT LOOP ---
-# We will compare a Clean file vs. its Noisy version
-# to establish the "Baseline Score" before you try to clean it.
+# We will iterate through all Denoised folders, SNRs, and Categories.
+# For each folder, we process the files inside and generate a judge_stats.csv.
 
-# Allow category selection
-import argparse
-parser = argparse.ArgumentParser()
-parser.add_argument("--category", default="airplane", help="Category to judge (folder name)")
-args = parser.parse_args()
-CATEGORY = args.category
+EXPERIMENT_DATA_DIR = "../experiment_data"
+CLEAN_DIR = "../clean_snores"
 
-clean_dir = "../clean_snores"
-noisy_dir_hard = f"../experiment_data/SNR_-5dB/{CATEGORY}"
-noisy_dir_med = f"../experiment_data/SNR_0dB/{CATEGORY}"
+DENOISED_FOLDERS = [
+    "Denoised_Spectral",
+    "Denoised_DeepLearning",
+    "Denoised_Wiener",
+    "Denoised_Wavelet",
+    "Denoised_DFNet"
+]
 
-# Denoised folders
-cleaned_dir_spectral = f"../experiment_data/Denoised_Spectral/{CATEGORY}"
-cleaned_dir_demucs = f"../experiment_data/Denoised_DeepLearning/{CATEGORY}"
-cleaned_dir_wiener = f"../experiment_data/Denoised_Wiener/{CATEGORY}"
-cleaned_dir_wavelet = f"../experiment_data/Denoised_Wavelet/{CATEGORY}"
-cleaned_dir_dfnet = f"../experiment_data/Denoised_DFNet/{CATEGORY}"
+METHOD_MAP = {
+    "Denoised_Spectral": "Spectral",
+    "Denoised_DeepLearning": "Demucs",
+    "Denoised_Wiener": "Wiener",
+    "Denoised_Wavelet": "Wavelet",
+    "Denoised_DFNet": "DeepFilterNet"
+}
 
-# We iterate through the Demucs folder (or you can change this to noisy_dir_hard)
-# to find files that have been processed.
-reference_dir = cleaned_dir_demucs
-if not os.path.exists(reference_dir):
-    print(f"Warning: Reference directory {reference_dir} does not exist. Falling back to Noisy directory.")
-    reference_dir = noisy_dir_hard
+SNRS = ["-5dB", "0dB"]
 
-if not os.path.exists(reference_dir):
-    print(f"Error: No directory found to list files from. Checked {cleaned_dir_demucs} and {noisy_dir_hard}")
-    exit()
+for method_folder in DENOISED_FOLDERS:
+    method_name = METHOD_MAP.get(method_folder, method_folder)
 
-files_to_check = sorted([f for f in os.listdir(reference_dir) if f.endswith('.wav')])
+    for snr in SNRS:
+        # Path to the method/snr root (e.g. ../experiment_data/Denoised_Spectral/-5dB)
+        method_snr_path = os.path.join(EXPERIMENT_DATA_DIR, method_folder, snr)
+        
+        if not os.path.exists(method_snr_path):
+            # print(f"Skipping {method_snr_path} (Not found)")
+            continue
+        
+        # List categories (subfolders)
+        try:
+            categories = [d for d in os.listdir(method_snr_path) if os.path.isdir(os.path.join(method_snr_path, d))]
+        except OSError:
+            continue
+            
+        for category in categories:
+            current_process_dir = os.path.join(method_snr_path, category)
+            
+            # Noisy Baselines
+            noisy_hard_dir = os.path.join(EXPERIMENT_DATA_DIR, "SNR_-5dB", category)
+            noisy_med_dir = os.path.join(EXPERIMENT_DATA_DIR, "SNR_0dB", category)
+            
+            files_to_check = sorted([f for f in os.listdir(current_process_dir) if f.endswith('.wav')])
+            
+            if not files_to_check:
+                continue
 
-print(f"\nJudging Category: {CATEGORY}")
-print(f"Reference Directory: {reference_dir}")
-print(f"{'FILENAME':<30} | {'0dB':<7} | {'-5dB':<7} | {'Spec':<7} | {'Demucs':<7} | {'Wiener':<7} | {'Wave':<7} | {'DFNet':<7}")
+            print(f"Processing: {current_process_dir}")
+            
+            # Prepare CSV Data
+            csv_lines = []
+            header = f"FILENAME,0dB,-5dB,{method_name}"
+            csv_lines.append(header)
+
+            for f in files_to_check:
+                # Parse filename to find the original clean snore
+                clean_filename = None
+                if "_plus_" in f:
+                    clean_filename = f.split("_plus_")[0] + ".wav"
+                elif "_noise_" in f:
+                    clean_filename = f.split("_noise_")[0] + ".wav"
+                
+                if not clean_filename or not os.path.exists(os.path.join(CLEAN_DIR, clean_filename)):
+                    continue
+
+                clean_p = os.path.join(CLEAN_DIR, clean_filename)
+                
+                # Construct paths for all versions
+                # Handle SNR mapping for the Noisy Baselines
+                
+                f_0dB = f
+                f_minus5dB = f
+                
+                if "-5dB" in f:
+                    f_0dB = f.replace("-5dB", "0dB")
+                elif "0dB" in f:
+                    f_minus5dB = f.replace("0dB", "-5dB")
+                
+                # Noisy paths
+                noisy_med_p = os.path.join(noisy_med_dir, f_0dB)
+                noisy_hard_p = os.path.join(noisy_hard_dir, f_minus5dB)
+                
+                # Current Denoised File Path
+                current_file_p = os.path.join(current_process_dir, f)
+
+                # Helper to score if exists
+                def get_score(path):
+                    if os.path.exists(path):
+                        return compare_files(clean_p, path)
+                    return 0.0
+
+                # Calculate scores
+                s_med = get_score(noisy_med_p)
+                s_hard = get_score(noisy_hard_p)
+                s_current = get_score(current_file_p)
+
+                # Add to CSV
+                line = f"{f},{s_med:.4f},{s_hard:.4f},{s_current:.4f}"
+                csv_lines.append(line)
+            
+            # Save CSV
+            csv_path = os.path.join(current_process_dir, "judge_stats.csv")
+            with open(csv_path, "w") as f_out:
+                f_out.write("\n".join(csv_lines))
+            print(f"  -> Saved {csv_path}")
+
 print("-" * 100)
-
-for f in files_to_check:
-    # Parse filename to find the original clean snore
-    # Expected formats: 
-    # 1. "1_0_plus_1-100032-A-0_-5dB.wav" (New)
-    # 2. "1_0_noise_-5dB.wav" (Old)
-    
-    clean_filename = None
-    if "_plus_" in f:
-        clean_filename = f.split("_plus_")[0] + ".wav"
-    elif "_noise_" in f:
-        clean_filename = f.split("_noise_")[0] + ".wav"
-    
-    if not clean_filename:
-        # Fallback: try to guess if it starts with "1_0" style
-        # This is risky, but let's try splitting by first underscore if it looks like a snore ID
-        pass
-
-    if not clean_filename or not os.path.exists(os.path.join(clean_dir, clean_filename)):
-        # print(f"Skipping {f}: Could not find clean source {clean_filename}")
-        continue
-
-    clean_p = os.path.join(clean_dir, clean_filename)
-    
-    # Construct paths for all versions
-    # The file 'f' usually contains the SNR suffix (e.g. -5dB)
-    # We need to construct the 0dB filename for the "Medium" noise column
-    
-    if "-5dB" in f:
-        f_0dB = f.replace("-5dB", "0dB")
-    else:
-        # If we are judging 0dB files, then f is f_0dB
-        f_0dB = f
-        # And we might need to guess the -5dB name? 
-        # Let's assume we are iterating -5dB files mostly.
-    
-    noisy_med_p = os.path.join(noisy_dir_med, f_0dB)
-    noisy_hard_p = os.path.join(noisy_dir_hard, f) # Assuming f is the -5dB version
-    
-    # Denoised files usually match the input filename (f)
-    cleaned_spectral_p = os.path.join(cleaned_dir_spectral, f)
-    cleaned_dl_p = os.path.join(cleaned_dir_demucs, f)
-    cleaned_wiener_p = os.path.join(cleaned_dir_wiener, f)
-    cleaned_wavelet_p = os.path.join(cleaned_dir_wavelet, f)
-    
-    # DeepFilterNet adds a suffix like "_DeepFilterNet3"
-    # We check for the standard name first, then try the suffix
-    cleaned_dfnet_p = os.path.join(cleaned_dir_dfnet, f)
-    if not os.path.exists(cleaned_dfnet_p):
-        # Try with suffix
-        f_dfnet = f.replace(".wav", "_DeepFilterNet3.wav")
-        cleaned_dfnet_p = os.path.join(cleaned_dir_dfnet, f_dfnet)
-
-    # Helper to score if exists
-    def get_score(path):
-        if os.path.exists(path):
-            return compare_files(clean_p, path)
-        return 0.0
-
-    # We only print if we have at least the noisy file or one cleaned file
-    if os.path.exists(noisy_hard_p) or os.path.exists(cleaned_dl_p):
-        s_med = get_score(noisy_med_p)
-        s_hard = get_score(noisy_hard_p)
-        s_spec = get_score(cleaned_spectral_p)
-        s_dl = get_score(cleaned_dl_p)
-        s_wien = get_score(cleaned_wiener_p)
-        s_wave = get_score(cleaned_wavelet_p)
-        s_dfnet = get_score(cleaned_dfnet_p)
-
-        print(f"{f[:28]:<30} | {s_med:.3f}   | {s_hard:.3f}   | {s_spec:.3f}   | {s_dl:.3f}   | {s_wien:.3f}   | {s_wave:.3f}   | {s_dfnet:.3f}")
-
-print("-" * 100)
-print("Interpretation:")
-print("1.00 = Perfect Match (Clean)")
-print("0.90+ = Excellent Quality")
-print("<0.50 = Heavy Distortion/Noise")
+print("Processing Complete.")
