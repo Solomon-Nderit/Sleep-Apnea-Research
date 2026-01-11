@@ -29,7 +29,7 @@ This codebase is organized into three pipeline stages: **Generation**, **Denoisi
 │   ├── deepfilternet_cleaner.py    # Lightweight AI (DeepFilterNet)
 │   ├── noise_reduce.py             # Spectral Gating (Stationary noise removal)
 │   ├── wiener_filtering.py         # Wiener Filter (Statistical estimation)
-│   └── wavelet_filtering.py        # Wavelet Thresholding (db4)
+│   ├── wavelet_filtering.py        # Wavelet Thresholding (db4)
 │
 ├── judge/                    # 3. EVALUATION (The "Judge")
 │   ├── judge.py                    # Classification confidence (Is it a snore?)
@@ -65,6 +65,8 @@ Initial attempts to use a custom-trained classifier introduced circular bias (th
 *   **Metric**: Cosine Similarity of Feature Embeddings.
 *   **Model**: YAMNet (Pre-trained on AudioSet).
 *   **Logic**: Instead of training a new judge, we extract embeddings from the "Clean" snore and the "Denoised" output. High similarity means the algorithm preserved the semantic identity of the sound without "hallucinating" artifacts.
+
+> **⚠️ Legacy Code Archive**: The source code for the initial (failed) custom classifier and earlier experimental iterations can be examined for historical context here: [Solomon-Nderit-Evaluating-Noise-Reduction-Techniques](Solomon-Nderit-Evaluating-Noise-Reduction-Techniques)
 
 ---
 
