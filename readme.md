@@ -66,7 +66,7 @@ Initial attempts to use a custom-trained classifier introduced circular bias (th
 *   **Model**: YAMNet (Pre-trained on AudioSet).
 *   **Logic**: Instead of training a new judge, we extract embeddings from the "Clean" snore and the "Denoised" output. High similarity means the algorithm preserved the semantic identity of the sound without "hallucinating" artifacts.
 
-> **⚠️ Legacy Code Archive**: The source code for the initial (failed) custom classifier and earlier experimental iterations can be examined for historical context here: [Solomon-Nderit-Evaluating-Noise-Reduction-Techniques](Solomon-Nderit-Evaluating-Noise-Reduction-Techniques)
+> **⚠️ Legacy Code Archive**: The source code for the initial (failed) custom classifier and earlier experimental iterations can be examined for historical context here: [Solomon-Nderit-Evaluating-Noise-Reduction-Techniques](https://github.com/Solomon-Nderit/Evaluating-Noise-Reduction-Techniques.git)
 
 ---
 
